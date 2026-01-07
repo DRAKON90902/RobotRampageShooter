@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|C:\\Users\\s179400\\Desktop\\Robot Rampage\\assets\\gon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|solutionrelative:assets\\gon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|c:\\users\\s179400\\desktop\\robot rampage\\assets\\easy fps\\scripts\\gunscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|solutionrelative:assets\\easy fps\\scripts\\gunscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|c:\\users\\s179400\\desktop\\robot rampage\\assets\\easy fps\\scripts\\destroyaftertimeparticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|solutionrelative:assets\\easy fps\\scripts\\destroyaftertimeparticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|c:\\users\\s179400\\desktop\\robot rampage\\assets\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|solutionrelative:assets\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|C:\\Users\\s179400\\Desktop\\Robot Rampage\\assets\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|solutionrelative:assets\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|C:\\Users\\s179400\\Desktop\\Robot Rampage\\assets\\ammo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|solutionrelative:assets\\ammo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|C:\\Users\\s179400\\Desktop\\Robot Rampage\\assets\\gunequipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|solutionrelative:assets\\gunequipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|C:\\Users\\s179400\\Desktop\\Robot Rampage\\assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|solutionrelative:assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|C:\\Users\\s179400\\Desktop\\Robot Rampage\\assets\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|solutionrelative:assets\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|C:\\Users\\s179400\\Desktop\\Robot Rampage\\assets\\pickupspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|solutionrelative:assets\\pickupspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|C:\\Users\\s179400\\Desktop\\Robot Rampage\\assets\\robotspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|solutionrelative:assets\\robotspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7CF6D6-0159-C735-7555-A4A85D1D10E3}|Assembly-CSharp-firstpass.csproj|C:\\Users\\s179400\\Desktop\\Robot Rampage\\assets\\standard assets\\characters\\firstpersoncharacter\\scripts\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE7CF6D6-0159-C735-7555-A4A85D1D10E3}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\characters\\firstpersoncharacter\\scripts\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|C:\\Users\\s179400\\Desktop\\Robot Rampage\\assets\\sniper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|solutionrelative:assets\\sniper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|C:\\Users\\s179400\\Desktop\\Robot Rampage\\assets\\shotgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|solutionrelative:assets\\shotgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|C:\\Users\\s179400\\Desktop\\Robot Rampage\\assets\\pistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|solutionrelative:assets\\pistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|C:\\Users\\s179400\\Desktop\\Robot Rampage\\assets\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|solutionrelative:assets\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|C:\\Users\\s179400\\Desktop\\Robot Rampage\\assets\\backgroundmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|solutionrelative:assets\\backgroundmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|C:\\Users\\s179400\\Desktop\\Robot Rampage\\assets\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|solutionrelative:assets\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|C:\\Users\\s179400\\Desktop\\Robot Rampage\\assets\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|solutionrelative:assets\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|C:\\Users\\s179400\\Desktop\\Robot Rampage\\assets\\missile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|solutionrelative:assets\\missile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|C:\\Users\\s179400\\Desktop\\Robot Rampage\\assets\\assaultrifle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7A506D-67BD-D287-8B55-4EA8ED3DA9D2}|Assembly-CSharp.csproj|solutionrelative:assets\\assaultrifle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7CF6D6-0159-C735-7555-A4A85D1D10E3}|Assembly-CSharp-firstpass.csproj|C:\\Users\\s179400\\Desktop\\Robot Rampage\\assets\\standard assets\\characters\\firstpersoncharacter\\firstpersoncharacterguidelines.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FE7CF6D6-0159-C735-7555-A4A85D1D10E3}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\characters\\firstpersoncharacter\\firstpersoncharacterguidelines.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7CF6D6-0159-C735-7555-A4A85D1D10E3}|Assembly-CSharp-firstpass.csproj|C:\\Users\\s179400\\Desktop\\Robot Rampage\\assets\\standard assets\\utility\\forcedreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE7CF6D6-0159-C735-7555-A4A85D1D10E3}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\utility\\forcedreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7CF6D6-0159-C735-7555-A4A85D1D10E3}|Assembly-CSharp-firstpass.csproj|C:\\Users\\s179400\\Desktop\\Robot Rampage\\assets\\standard assets\\utility\\simpleactivatormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE7CF6D6-0159-C735-7555-A4A85D1D10E3}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\utility\\simpleactivatormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GunScript.cs",
+              "DocumentMoniker": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Easy FPS\\Scripts\\GunScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Easy FPS\\Scripts\\GunScript.cs",
+              "ToolTip": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Easy FPS\\Scripts\\GunScript.cs",
+              "RelativeToolTip": "Assets\\Easy FPS\\Scripts\\GunScript.cs",
+              "ViewState": "AgIAAJoBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T21:00:17.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DestroyAfterTimeParticle.cs",
+              "DocumentMoniker": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Easy FPS\\Scripts\\DestroyAfterTimeParticle.cs",
+              "RelativeDocumentMoniker": "Assets\\Easy FPS\\Scripts\\DestroyAfterTimeParticle.cs",
+              "ToolTip": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Easy FPS\\Scripts\\DestroyAfterTimeParticle.cs",
+              "RelativeToolTip": "Assets\\Easy FPS\\Scripts\\DestroyAfterTimeParticle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T21:00:04.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sniper.cs",
+              "DocumentMoniker": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Sniper.cs",
+              "RelativeDocumentMoniker": "Assets\\Sniper.cs",
+              "ToolTip": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Sniper.cs",
+              "RelativeToolTip": "Assets\\Sniper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T20:58:04.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BackgroundMusic.cs",
+              "DocumentMoniker": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\BackgroundMusic.cs",
+              "RelativeDocumentMoniker": "Assets\\BackgroundMusic.cs",
+              "ToolTip": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\BackgroundMusic.cs",
+              "RelativeToolTip": "Assets\\BackgroundMusic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:03:33.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Menu.cs",
+              "ToolTip": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Menu.cs",
+              "RelativeToolTip": "Assets\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:01:10.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Game.cs",
+              "RelativeDocumentMoniker": "Assets\\Game.cs",
+              "ToolTip": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Game.cs",
+              "RelativeToolTip": "Assets\\Game.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAASwEoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:20:18.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RobotSpawn.cs",
+              "DocumentMoniker": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\RobotSpawn.cs",
+              "RelativeDocumentMoniker": "Assets\\RobotSpawn.cs",
+              "ToolTip": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\RobotSpawn.cs",
+              "RelativeToolTip": "Assets\\RobotSpawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:11:07.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PickupSpawn.cs",
+              "DocumentMoniker": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\PickupSpawn.cs",
+              "RelativeDocumentMoniker": "Assets\\PickupSpawn.cs",
+              "ToolTip": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\PickupSpawn.cs",
+              "RelativeToolTip": "Assets\\PickupSpawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:02:28.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pickup.cs",
+              "DocumentMoniker": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Pickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Pickup.cs",
+              "ToolTip": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Pickup.cs",
+              "RelativeToolTip": "Assets\\Pickup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:49:18.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Player.cs",
+              "ToolTip": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Player.cs",
+              "RelativeToolTip": "Assets\\Player.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwFgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T20:22:37.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Missile.cs",
+              "DocumentMoniker": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Missile.cs",
+              "RelativeDocumentMoniker": "Assets\\Missile.cs",
+              "ToolTip": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Missile.cs",
+              "RelativeToolTip": "Assets\\Missile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T20:05:51.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Robot.cs",
+              "RelativeDocumentMoniker": "Assets\\Robot.cs",
+              "ToolTip": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Robot.cs",
+              "RelativeToolTip": "Assets\\Robot.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwEMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T21:09:46.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ammo.cs",
+              "DocumentMoniker": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Ammo.cs",
+              "RelativeDocumentMoniker": "Assets\\Ammo.cs",
+              "ToolTip": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Ammo.cs",
+              "RelativeToolTip": "Assets\\Ammo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:35:43.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameUI.cs",
+              "DocumentMoniker": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\GameUI.cs",
+              "RelativeDocumentMoniker": "Assets\\GameUI.cs",
+              "ToolTip": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\GameUI.cs",
+              "RelativeToolTip": "Assets\\GameUI.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwDgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:28:12.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssaultRifle.cs",
+              "DocumentMoniker": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\AssaultRifle.cs",
+              "RelativeDocumentMoniker": "Assets\\AssaultRifle.cs",
+              "ToolTip": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\AssaultRifle.cs",
+              "RelativeToolTip": "Assets\\AssaultRifle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:10:01.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Shotgun.cs",
+              "DocumentMoniker": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Shotgun.cs",
+              "RelativeDocumentMoniker": "Assets\\Shotgun.cs",
+              "ToolTip": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Shotgun.cs",
+              "RelativeToolTip": "Assets\\Shotgun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:08:15.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Pistol.cs",
+              "DocumentMoniker": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Pistol.cs",
+              "RelativeDocumentMoniker": "Assets\\Pistol.cs",
+              "ToolTip": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Pistol.cs",
+              "RelativeToolTip": "Assets\\Pistol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:05:57.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gon.cs",
+              "DocumentMoniker": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Gon.cs",
+              "RelativeDocumentMoniker": "Assets\\Gon.cs",
+              "ToolTip": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Gon.cs",
+              "RelativeToolTip": "Assets\\Gon.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowD4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:03:30.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GunEquipper.cs",
+              "DocumentMoniker": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\GunEquipper.cs",
+              "RelativeDocumentMoniker": "Assets\\GunEquipper.cs",
+              "ToolTip": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\GunEquipper.cs",
+              "RelativeToolTip": "Assets\\GunEquipper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T19:49:12.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Constants.cs",
+              "RelativeDocumentMoniker": "Assets\\Constants.cs",
+              "ToolTip": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Constants.cs",
+              "RelativeToolTip": "Assets\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:11:20.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FirstPersonController.cs",
+              "DocumentMoniker": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\Scripts\\FirstPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\Scripts\\FirstPersonController.cs",
+              "ToolTip": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\Scripts\\FirstPersonController.cs",
+              "RelativeToolTip": "Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\Scripts\\FirstPersonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T20:33:07.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FirstPersonCharacterGuidelines.txt",
+              "DocumentMoniker": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\FirstPersonCharacterGuidelines.txt",
+              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\FirstPersonCharacterGuidelines.txt",
+              "ToolTip": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\FirstPersonCharacterGuidelines.txt",
+              "RelativeToolTip": "Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\FirstPersonCharacterGuidelines.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-03T20:31:32.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SimpleActivatorMenu.cs",
+              "DocumentMoniker": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
+              "ToolTip": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
+              "RelativeToolTip": "Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T20:11:47.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ForcedReset.cs",
+              "DocumentMoniker": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Standard Assets\\Utility\\ForcedReset.cs",
+              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Utility\\ForcedReset.cs",
+              "ToolTip": "C:\\Users\\s179400\\Desktop\\Robot Rampage\\Assets\\Standard Assets\\Utility\\ForcedReset.cs",
+              "RelativeToolTip": "Assets\\Standard Assets\\Utility\\ForcedReset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T20:11:04.791Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

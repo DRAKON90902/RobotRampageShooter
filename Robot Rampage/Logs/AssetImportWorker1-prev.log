@@ -1,0 +1,966 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.40f1 (cbdda657d2f0) revision 13360550'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Enterprise' Language: 'en' Physical Memory: 32456 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.40f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/s179400/Desktop/Robot Rampage
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+51840
+Successfully changed project path to: C:/Users/s179400/Desktop/Robot Rampage
+C:/Users/s179400/Desktop/Robot Rampage
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [15836]  Target information:
+
+Player connection [15836]  * "[IP] 10.11.24.130 [Port] 0 [Flags] 2 [Guid] 401428041 [EditorId] 401428041 [Version] 1048832 [Id] WindowsEditor(7,410MKQ3) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [15836] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [15836] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+Refreshing native plugins compatible for Editor in 12.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.40f1 (cbdda657d2f0)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.40f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/s179400/Desktop/Robot Rampage/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA T600 (ID=0x1fb1)
+    Vendor:   NVIDIA
+    VRAM:     3950 MB
+    Driver:   31.0.15.3667
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.40f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.40f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.40f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56972
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.40f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.40f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008003 seconds.
+- Loaded All Assemblies, in  0.323 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.236 seconds
+Domain Reload Profiling: 557ms
+	BeginReloadAssembly (103ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (57ms)
+	LoadAllAssembliesAndSetupDomain (124ms)
+		LoadAssemblies (103ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (121ms)
+			TypeCache.Refresh (120ms)
+				TypeCache.ScanAssembly (108ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (236ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (194ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (133ms)
+			ProcessInitializeOnLoadMethodAttributes (45ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.512 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.470 seconds
+Domain Reload Profiling: 980ms
+	BeginReloadAssembly (135ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (16ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (310ms)
+		LoadAssemblies (249ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (134ms)
+			TypeCache.Refresh (116ms)
+				TypeCache.ScanAssembly (107ms)
+			ScanForSourceGeneratedMonoScriptInfo (14ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (471ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (359ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (48ms)
+			ProcessInitializeOnLoadAttributes (281ms)
+			ProcessInitializeOnLoadMethodAttributes (15ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 3.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3429 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (399.7 KB). Loaded Objects now: 3902.
+Memory consumption went from 137.3 MB to 137.0 MB.
+Total: 2.311200 ms (FindLiveObjects: 0.219000 ms CreateObjectMapping: 0.147400 ms MarkObjects: 1.778700 ms  DeleteObjects: 0.165000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 81321.603553 seconds.
+  path: Assets/827945__areniporgen__springfield-armory-1911-operator-suppressed.wav
+  artifactKey: Guid(5a47baadf272a9b4096f245fac877945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/827945__areniporgen__springfield-armory-1911-operator-suppressed.wav using Guid(5a47baadf272a9b4096f245fac877945) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b712253baf89086b55affa834eb6bf86') in 0.078293 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/427596__michorvath__ar15-rifle-shot.wav
+  artifactKey: Guid(bd092ed2406021145bbb7c8c6afc5f04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/427596__michorvath__ar15-rifle-shot.wav using Guid(bd092ed2406021145bbb7c8c6afc5f04) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c5fae7d8df876e0ddfd77324376b40e3') in 0.005963 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 131.394823 seconds.
+  path: Assets/Scenes/Battle/NavMesh.asset
+  artifactKey: Guid(13795cb9fbd094d439824f0929f10222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Battle/NavMesh.asset using Guid(13795cb9fbd094d439824f0929f10222) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f3f21a7a04f175fa09ba35169dcc73a5') in 0.001227 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Scenes/Battle/ReflectionProbe-0.exr
+  artifactKey: Guid(8843582a4102c47ed9c3b5d8cb45337d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Battle/ReflectionProbe-0.exr using Guid(8843582a4102c47ed9c3b5d8cb45337d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '86e58cb79dc32808eb5087aebb85471f') in 0.024833 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 36.022009 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_2.png
+  artifactKey: Guid(864a375e9f3b52645a37e4b8b6780cf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_2.png using Guid(864a375e9f3b52645a37e4b8b6780cf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8e318117eddb8eb1e26958b0c81fa9b9') in 0.014712 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.002484 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_5.png
+  artifactKey: Guid(ec1a16f617208c240a14efc0dde549fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_5.png using Guid(ec1a16f617208c240a14efc0dde549fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ebdd4a276d233cf842f41c7d27325963') in 0.009620 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_10.png
+  artifactKey: Guid(7e62ded2b580a0e42876d4e69e2e594d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_10.png using Guid(7e62ded2b580a0e42876d4e69e2e594d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '05f9fa206dd2cde4b522dd5036e6579c') in 0.008206 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_9.png
+  artifactKey: Guid(74d5612573bf9424a9f24bfe89ccc644) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_9.png using Guid(74d5612573bf9424a9f24bfe89ccc644) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9c597c697f46f85f68270d318e48664f') in 0.006378 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_45.png
+  artifactKey: Guid(226cf7142a2e4484294431668557694b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_45.png using Guid(226cf7142a2e4484294431668557694b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'fa3fbb8548b55090c9a19447914dc1f7') in 0.006270 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_74.png
+  artifactKey: Guid(90b1a0671d15d7e44831117ade20312d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_74.png using Guid(90b1a0671d15d7e44831117ade20312d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '75ba777f5c01dc8585b04492cbb133fe') in 0.005761 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_80.png
+  artifactKey: Guid(e9e25d84ab5c3a149b9b95c14cdbcded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_80.png using Guid(e9e25d84ab5c3a149b9b95c14cdbcded) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c8a71752974b6ee3fa827e3f20fca920') in 0.006255 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_112.png
+  artifactKey: Guid(34998f09190edfd43aceade2725e566c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_112.png using Guid(34998f09190edfd43aceade2725e566c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6980aaaa7f54ea4743345a3e9884ec91') in 0.006675 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_108.png
+  artifactKey: Guid(d4ee31768c9bd9e45b0731c23efe704c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_108.png using Guid(d4ee31768c9bd9e45b0731c23efe704c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '540cb9b39021bd159ad5abdc1078dc68') in 0.007569 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_40.png
+  artifactKey: Guid(361f87d540ad14746bd3cb21bbae791f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_40.png using Guid(361f87d540ad14746bd3cb21bbae791f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6416dfbc66857809636a263e27cd1684') in 0.007451 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_91.png
+  artifactKey: Guid(fcc49ef62476006468a85aedac420561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_91.png using Guid(fcc49ef62476006468a85aedac420561) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7ddcbae6996cc3d3e488ae16837264ca') in 0.007155 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_32.png
+  artifactKey: Guid(de40576dbcbd4f348b82cdae148dbab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_32.png using Guid(de40576dbcbd4f348b82cdae148dbab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f09baea4a9f393b2a625c602758e244d') in 0.005926 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_25.png
+  artifactKey: Guid(ecacc7c793290984f84fecf454fd6539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_25.png using Guid(ecacc7c793290984f84fecf454fd6539) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c08153c5362328626e5d9214ca243ffd') in 0.006102 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_36.png
+  artifactKey: Guid(257d046aae603aa4d89576f234334d8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_36.png using Guid(257d046aae603aa4d89576f234334d8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b8b6380e20395f11bab8e95b274ef7be') in 0.007477 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_53.png
+  artifactKey: Guid(de00108d5a0d6f34f95bc0ffa4230304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_53.png using Guid(de00108d5a0d6f34f95bc0ffa4230304) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'fca8c5a2f3b8829cce3d6b88f0d5411a') in 0.006039 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_46.png
+  artifactKey: Guid(2485dbf546f55f844bfeb05224c3e8af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_46.png using Guid(2485dbf546f55f844bfeb05224c3e8af) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e04febbb46af9d858778f0fb6362ee91') in 0.005601 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_69.png
+  artifactKey: Guid(217fe81cd56b885418bee2c79575b9e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_69.png using Guid(217fe81cd56b885418bee2c79575b9e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'fbbc762c01b7135989331e057c33f864') in 0.007559 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_98.png
+  artifactKey: Guid(21ab92585464f684cb49dba29c2460b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_98.png using Guid(21ab92585464f684cb49dba29c2460b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'fe0de2d2539d65e2ff858047c9f8d5e1') in 0.007544 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_22.png
+  artifactKey: Guid(97ad0d8cc34c13e43a6fbcc424956cf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_22.png using Guid(97ad0d8cc34c13e43a6fbcc424956cf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ee1f16c32e2148e72d9b8470ed666aeb') in 0.006544 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_63.png
+  artifactKey: Guid(0740bc596ae58eb4dabf3202f8e43750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_63.png using Guid(0740bc596ae58eb4dabf3202f8e43750) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd4eeac6d66cdd5804733ab82bdb3cbf5') in 0.006418 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_28.png
+  artifactKey: Guid(39ed8597904cc0344b4a1edd7ae85065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_28.png using Guid(39ed8597904cc0344b4a1edd7ae85065) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '02fa01fdb52288a228c3034796dc8820') in 0.006129 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_90.png
+  artifactKey: Guid(f755a4c25ef84e748a51677b7ddb324e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_90.png using Guid(f755a4c25ef84e748a51677b7ddb324e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '51e73f4452c21fa0109f903eda2efe66') in 0.006507 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_8.png
+  artifactKey: Guid(9ba0cdb76a0ecfb4f87ebc2548667dfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_8.png using Guid(9ba0cdb76a0ecfb4f87ebc2548667dfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5f9df25ff7717508f4f653900f831f3e') in 0.006182 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_110.png
+  artifactKey: Guid(639ee4dc90bac4b4f959ec2c8abadbf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_110.png using Guid(639ee4dc90bac4b4f959ec2c8abadbf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '22d767222da48d0c1a4c7514eb76f85d') in 0.006425 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_26.png
+  artifactKey: Guid(e1a34dd0feb33b24f8d7d888118d1b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_26.png using Guid(e1a34dd0feb33b24f8d7d888118d1b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c6dc2519c67bb3bbe052be71331cd54d') in 0.006250 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_24.png
+  artifactKey: Guid(071f07bbe46a4854e88adc34f557d0e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_24.png using Guid(071f07bbe46a4854e88adc34f557d0e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '340eb99b63536d84f2d206ae1d09ff7f') in 0.005788 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_27.png
+  artifactKey: Guid(d22c91235a7615c4a9162fe65dff325d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_27.png using Guid(d22c91235a7615c4a9162fe65dff325d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '464073288bdd632be565845e65796c01') in 0.006560 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_38.png
+  artifactKey: Guid(7f40036a61ef38d4f976fdb613d7f316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_38.png using Guid(7f40036a61ef38d4f976fdb613d7f316) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e988d22278279bc2fbe5d9f9f4d1b4d2') in 0.006324 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.730710 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_120.png
+  artifactKey: Guid(c3bcedeb96a30884190f356bfbaa4292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_120.png using Guid(c3bcedeb96a30884190f356bfbaa4292) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e1b7164811d9c6b85961038ef19ee40c') in 0.007189 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_126.png
+  artifactKey: Guid(42afe7fcb13943148a4877802d25ae01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_126.png using Guid(42afe7fcb13943148a4877802d25ae01) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '07af1b7594ac916b90fa6584e9ab3bc5') in 0.007219 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_131.png
+  artifactKey: Guid(2401b015857cf2845b1e094d3c9d8caa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_131.png using Guid(2401b015857cf2845b1e094d3c9d8caa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd3d454781d27e84aedada88894ec39d0') in 0.007680 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_121.png
+  artifactKey: Guid(a046e84b9cbe7b6439713dada13895aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_121.png using Guid(a046e84b9cbe7b6439713dada13895aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '900d1d18b46de084d69bb9bd8a36a3e7') in 0.006866 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_145.png
+  artifactKey: Guid(a34921746bf73f24d853fb4c31068a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_145.png using Guid(a34921746bf73f24d853fb4c31068a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7b8c4743ac0e99ae37a48cac7955f7e5') in 0.007347 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_137.png
+  artifactKey: Guid(77cfdc17072e54448a2c785fd5f42d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_137.png using Guid(77cfdc17072e54448a2c785fd5f42d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '96f9952052c4f472e5d5e322f9272a52') in 0.007327 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_123.png
+  artifactKey: Guid(ba65b186b40c8a34189b64d7d6390c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_123.png using Guid(ba65b186b40c8a34189b64d7d6390c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0e1eb0c455a64e60ffe53ef848abb8ec') in 0.008276 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_157.png
+  artifactKey: Guid(6e7fdf1178ba1864e8493bf4dea1de34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_157.png using Guid(6e7fdf1178ba1864e8493bf4dea1de34) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'cd0c1d76135b05fdf113013076bcc755') in 0.006003 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_132.png
+  artifactKey: Guid(d810b06a4f9d17e4d9d94c5618a9958a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_132.png using Guid(d810b06a4f9d17e4d9d94c5618a9958a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1f74e1adb90e6e994334b7feaba55cca') in 0.008648 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_155.png
+  artifactKey: Guid(7f43a8e9e035e5b46a1e741097440784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_155.png using Guid(7f43a8e9e035e5b46a1e741097440784) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'fa160530ba44be5865f9d354d912702c') in 0.009391 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_149.png
+  artifactKey: Guid(7cb624000a19d004a983369b1572772e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_149.png using Guid(7cb624000a19d004a983369b1572772e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c27d6081ed245ed4c8aa8ee390431b01') in 0.007128 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_128.png
+  artifactKey: Guid(e9dcff9486c672a4d8acca5ed1d58562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_128.png using Guid(e9dcff9486c672a4d8acca5ed1d58562) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '2b3efa85ed97b59dd91fae4d21996c0c') in 0.006658 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_140.png
+  artifactKey: Guid(2a36ae50a1bf79d4c84b9dfe8fb800a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_140.png using Guid(2a36ae50a1bf79d4c84b9dfe8fb800a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f63b3c55feadaac2ff40337d2cde0500') in 0.007906 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.199386 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_170.png
+  artifactKey: Guid(bef3a221a7d1cac41b8d59f13b5e4a6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_170.png using Guid(bef3a221a7d1cac41b8d59f13b5e4a6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b700870cbf2659b558e9fef4a2c88839') in 0.008556 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_173.png
+  artifactKey: Guid(af21e0b22cc5b034badc8b97e3e3637f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_173.png using Guid(af21e0b22cc5b034badc8b97e3e3637f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e28f5cbbc577716c37c71d8cea169cd9') in 0.007295 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_175.png
+  artifactKey: Guid(20d496c040d64cc44b2c824ea66ece2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_175.png using Guid(20d496c040d64cc44b2c824ea66ece2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1b4907db1a990d3a410e1e4ddcf35755') in 0.006830 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Models/City/textures/zs_cityofthenight_b4_texture_172.png
+  artifactKey: Guid(3949136b465d7714f9bf9805a995cb9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/textures/zs_cityofthenight_b4_texture_172.png using Guid(3949136b465d7714f9bf9805a995cb9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '808a06967fde214baa6c8d2fa43f3943') in 0.008298 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 11.557680 seconds.
+  path: Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_54.png
+  artifactKey: Guid(d5586b031a77d814e848a5db8b49ae19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_54.png using Guid(d5586b031a77d814e848a5db8b49ae19) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'edb8d1643db7660bdbe7ee566e8101d4') in 0.011314 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_57.png
+  artifactKey: Guid(b8552ab3295491648bed429194e5a1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_57.png using Guid(b8552ab3295491648bed429194e5a1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd9afb077fc519793c990dd1b363b0e9f') in 0.114384 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_77.png
+  artifactKey: Guid(afc5efedee71f3043b0a6c30f53e6594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_77.png using Guid(afc5efedee71f3043b0a6c30f53e6594) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e7fe2792d988781f497fae15486e7bec') in 0.130168 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_72.png
+  artifactKey: Guid(beae3fed43e6bc245920bab88c42c11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_72.png using Guid(beae3fed43e6bc245920bab88c42c11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '76abc65dae1bc4669a3fe62e8bc763d2') in 0.045083 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_79.png
+  artifactKey: Guid(f1afa742b59a1b54f865613ebd204d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_79.png using Guid(f1afa742b59a1b54f865613ebd204d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '2f8561d6bcd440075094c9ab97140a6b') in 0.011851 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_56.png
+  artifactKey: Guid(876b74d52ac81a04a8143a76c4abe019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_56.png using Guid(876b74d52ac81a04a8143a76c4abe019) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e8a744f06d3652421e6602064db20bb0') in 0.008279 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_67.png
+  artifactKey: Guid(3c0b6bc33ccb35a4e88fb6a4f344f9c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_67.png using Guid(3c0b6bc33ccb35a4e88fb6a4f344f9c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'dd07e0af1942cd5b40282f15ea0c8ed3') in 0.008367 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_68.png
+  artifactKey: Guid(522955db8871a034da0044f79ed6e7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_68.png using Guid(522955db8871a034da0044f79ed6e7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ff24a2e2479df555ab3976786dd57201') in 0.006514 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_74.png
+  artifactKey: Guid(165e7873ffff5794783a8a809fd75b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_74.png using Guid(165e7873ffff5794783a8a809fd75b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '732a6acf665418a436b6dad5438d472f') in 0.007858 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_55.png
+  artifactKey: Guid(01a8a38e627299646a811e8afadcea30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_55.png using Guid(01a8a38e627299646a811e8afadcea30) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5065a58c6314651c27beafeb489aaa85') in 0.006569 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.016342 seconds.
+  path: Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_82.png
+  artifactKey: Guid(28fa7877dcf8bb9438b4c7e75fa4b0f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_82.png using Guid(28fa7877dcf8bb9438b4c7e75fa4b0f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '89b2139e57409a5adb3513a9bce61b56') in 0.006733 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_89.png
+  artifactKey: Guid(fd2727f8c3817aa4385d72769d3ad850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_89.png using Guid(fd2727f8c3817aa4385d72769d3ad850) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5b658cd2be07452c818ca45d7627df66') in 0.007085 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_93.png
+  artifactKey: Guid(6514a7966ebb7014cba705c0838f6bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_93.png using Guid(6514a7966ebb7014cba705c0838f6bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c210235de09ae666353971ee18f29cfe') in 0.006705 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_86.png
+  artifactKey: Guid(0624934df55dc4b4a886036e172ae60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_86.png using Guid(0624934df55dc4b4a886036e172ae60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '46959dd89a79d9c708bb70ef5c2f4328') in 0.007888 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.023919 seconds.
+  path: Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_96.png
+  artifactKey: Guid(7d7f98cb7d4161a40b01b0cebfed9c7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_96.png using Guid(7d7f98cb7d4161a40b01b0cebfed9c7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8a606bd4d7345c8fa7ca7ef7a46e0838') in 0.005912 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_104.png
+  artifactKey: Guid(59bae9a29add016459ebc3e33d59bc0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_104.png using Guid(59bae9a29add016459ebc3e33d59bc0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e094009900159fa44212824ee45e6e39') in 0.013760 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_110.png
+  artifactKey: Guid(2a9862e0a5a67194f9201d3de5a3a4dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_110.png using Guid(2a9862e0a5a67194f9201d3de5a3a4dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '390da1ab3a8d28f2442054efa3abbe04') in 0.006883 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_114.png
+  artifactKey: Guid(9b963b34bf1d14c468bd4f121043d146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_114.png using Guid(9b963b34bf1d14c468bd4f121043d146) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '977b75f3e0311416d3ee16847d4da65f') in 0.008983 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_113.png
+  artifactKey: Guid(39005bb092e719c46916b042eea59d19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_113.png using Guid(39005bb092e719c46916b042eea59d19) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '031b33452728054beb6162f69345aeae') in 0.006964 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_111.png
+  artifactKey: Guid(cdd950e861b25e749841fe7630fc86bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_111.png using Guid(cdd950e861b25e749841fe7630fc86bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5cddd989664af3c1c51d6f1f1ecde88b') in 0.008462 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_115.png
+  artifactKey: Guid(d057cb7fe5e05b241ac8a788ec57aa02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_115.png using Guid(d057cb7fe5e05b241ac8a788ec57aa02) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7549225099c53e8180af1aba8b771808') in 0.007611 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_118.png
+  artifactKey: Guid(e58255a09d175754296fe607aaf64b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_118.png using Guid(e58255a09d175754296fe607aaf64b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4140d1655be89dce2760a0c6de8d8f02') in 0.007596 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_106.png
+  artifactKey: Guid(51e0f1480c971524097579dcf32a036d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City/source/zs_city_of_the_night_by_digitalexplorations_dd8qnsw/ZS City of the Night/zs_cityofthenight_b4_texture_106.png using Guid(51e0f1480c971524097579dcf32a036d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6556ef38d99b094a48ee23e77b918f00') in 0.006968 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.338 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.809 seconds
+Domain Reload Profiling: 1145ms
+	BeginReloadAssembly (124ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (24ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (27ms)
+	LoadAllAssembliesAndSetupDomain (153ms)
+		LoadAssemblies (215ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (9ms)
+			TypeCache.Refresh (4ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (809ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (338ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (44ms)
+			ProcessInitializeOnLoadAttributes (260ms)
+			ProcessInitializeOnLoadMethodAttributes (20ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Refreshing native plugins compatible for Editor in 4.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3403 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 16 unused Assets / (371.7 KB). Loaded Objects now: 3949.
+Memory consumption went from 136.8 MB to 136.5 MB.
+Total: 2.617500 ms (FindLiveObjects: 0.247800 ms CreateObjectMapping: 0.163000 ms MarkObjects: 2.042200 ms  DeleteObjects: 0.163600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
